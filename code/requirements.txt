@@ -1,0 +1,8 @@
+beautifulsoup4
+pdfminer
+regex
+sklearn
+pandas
+xmltodict
+matplotlib
+python-Levenshtein-wheels
